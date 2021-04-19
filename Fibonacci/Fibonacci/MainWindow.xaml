@@ -1,0 +1,10 @@
+﻿<Window x:Class="Fibonacci.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBox x:Name="txtTest" HorizontalAlignment="Left" Height="61" TextWrapping="Wrap" VerticalAlignment="Top" Width="518"/>
+        <Button x:Name="btnPatryk" Content="Fibonacci" HorizontalAlignment="Left" Margin="0,86,0,0" VerticalAlignment="Top" Width="134" Height="39" FontSize="16" Click="btnPatryk_Click"/>
+
+    </Grid>
+</Window>

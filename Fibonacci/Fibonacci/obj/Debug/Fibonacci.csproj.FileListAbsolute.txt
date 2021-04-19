@@ -1,0 +1,13 @@
+D:\Coding\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe.config
+D:\Coding\Fibonacci\Fibonacci\obj\Debug\MainWindow.baml
+D:\Coding\Fibonacci\Fibonacci\obj\Debug\MainWindow.g.cs
+D:\Coding\Fibonacci\Fibonacci\obj\Debug\App.g.cs
+D:\Coding\Fibonacci\Fibonacci\obj\Debug\Fibonacci_MarkupCompile.cache
+D:\Coding\Fibonacci\Fibonacci\obj\Debug\Fibonacci.g.resources
+D:\Coding\Fibonacci\Fibonacci\obj\Debug\Fibonacci.Properties.Resources.resources
+D:\Coding\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csproj.GenerateResource.Cache
+D:\Coding\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe
+D:\Coding\Fibonacci\Fibonacci\bin\Debug\Fibonacci.pdb
+D:\Coding\Fibonacci\Fibonacci\obj\Debug\Fibonacci.exe
+D:\Coding\Fibonacci\Fibonacci\obj\Debug\Fibonacci.pdb
+D:\Coding\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csprojResolveAssemblyReference.cache
