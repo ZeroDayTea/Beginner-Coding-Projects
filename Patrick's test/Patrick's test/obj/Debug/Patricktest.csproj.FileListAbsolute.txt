@@ -1,0 +1,9 @@
+D:\Coding\Patrick's test\Patrick's test\bin\Debug\Patrick's test.exe.config
+D:\Coding\Patrick's test\Patrick's test\bin\Debug\Patrick's test.exe
+D:\Coding\Patrick's test\Patrick's test\bin\Debug\Patrick's test.pdb
+D:\Coding\Patrick's test\Patrick's test\obj\Debug\Patrick_s_test.HelloWorld.resources
+D:\Coding\Patrick's test\Patrick's test\obj\Debug\Patrick_s_test.Properties.Resources.resources
+D:\Coding\Patrick's test\Patrick's test\obj\Debug\Patricktest.csproj.GenerateResource.Cache
+D:\Coding\Patrick's test\Patrick's test\obj\Debug\Patrick's test.exe
+D:\Coding\Patrick's test\Patrick's test\obj\Debug\Patrick's test.pdb
+D:\Coding\Patrick's test\Patrick's test\obj\Debug\Patricktest.csprojResolveAssemblyReference.cache
