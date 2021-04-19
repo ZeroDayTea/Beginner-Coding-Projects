@@ -1,0 +1,8 @@
+D:\Coding\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\Coding\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+D:\Coding\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
+D:\Coding\HelloWorld\HelloWorld\obj\Debug\HelloWorld.FirstWindow.resources
+D:\Coding\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\Coding\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\Coding\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\Coding\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
